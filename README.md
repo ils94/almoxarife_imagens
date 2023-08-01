@@ -1,1 +1,1 @@
-# Imagens para o sitema do almoxarifado
+# Imagens para o sistema do almoxarifado
